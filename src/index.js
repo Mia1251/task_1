@@ -1,4 +1,3 @@
-import React from 'react';
 import ReactDOM from 'react-dom';
 import DataTable from './DataTable';
 import ("bootstrap/dist/css/bootstrap.css");
